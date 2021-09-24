@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivens Pontes</h1>
 <h3 align="center">A passionate PHP / Laravel developer 🇧🇷</h3>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **VueJS**
 
 - 💬 Ask me about **Laravel, PHP, RabbitMQ**
 
